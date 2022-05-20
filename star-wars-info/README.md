@@ -1,5 +1,7 @@
 Star Wars Info
 
+[snobbish-head.surge.sh](https://snobbish-head.surge.sh/)
+
 -A aplicação mostra cards de personagens e planetas do universo Star Wars, os dados são retirados da API https://swapi.dev/.
 
 ------------------------------------
