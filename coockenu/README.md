@@ -1,5 +1,7 @@
 O Coockenu é um site de receitas.
 
+https://pastoral-noise.surge.sh/login
+
 Funcionalidades:
 
 -Login/Logout de usuários.
@@ -14,5 +16,4 @@ login padrão:
 email: chijo@gmail.com
 senha: 123456
 
-Link Surge
-https://pastoral-noise.surge.sh/login
+
