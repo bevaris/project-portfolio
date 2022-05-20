@@ -4,4 +4,4 @@ Pokedex
 
 --------------------------------
 
--mostra cards de pokemon
+-Mostra cards de pokemon
