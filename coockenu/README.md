@@ -16,4 +16,9 @@ login padrão:
 email: chijo@gmail.com
 senha: 123456
 
+Dependencies:
 
+-Styled-Components
+-Axios
+-React-Router-Dom
+-Material UI
